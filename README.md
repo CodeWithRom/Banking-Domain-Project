@@ -1,6 +1,8 @@
-This file contains all the meta information regarding the columns described in the CSV files. We have provided 2 CSV files:
+This file contains all the meta information regarding the columns described in the CSV files. We have provided 2 xlsb, 1 powerbi, 1 pdf files:
 1. dim_customers
 2. fact_spends
+3. Mitron bank.pdf
+4. bdp.pbit (powerbi template)
 
 
 Column Description for dim_customers:
